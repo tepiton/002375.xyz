@@ -9,7 +9,7 @@
 	--color-link: #8d3f2b;
 	--color-link-hover: #5f2418;
 	--color-border: #d6d0c6;
-	--measure: min(90%, 48ch);
+	--measure: min(90%, 56ch);
 }
 
 /* System dark mode */
@@ -59,6 +59,7 @@ body {
 	background-color: var(--color-bg);
 	font-family: var(--font-body);
 	line-height: 1.65;
+    hyphens: auto;
 }
 
 a {

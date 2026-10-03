@@ -1,11 +1,11 @@
 export default {
-	title: "Folio",
-	subtitle: "A starter for chaptered narrative sites",
+	title: "The Great Gatsby",
+	subtitle: "F. Scott Fitzgerald, 1925",
 	url: "https://002375.xyz/",
 	language: "en",
-	description: "An Eleventy starter for chaptered, long-form literary projects.",
+	description: "Reading edition of The Great Gatsby by F. Scott Fitzgerald.",
 	author: {
-		name: "Your Name",
+		name: "F. Scott Fitzgerald",
 	},
 	image: "",
 }
